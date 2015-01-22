@@ -9,5 +9,6 @@ public class SingletonTestDrive {
         System.out.println(singleton1);
         System.out.println(singleton2);
         System.out.println(singleton3);
+	//ha ha ha ha :D :D ;D
     }
 }
